@@ -1,4 +1,3 @@
-#ResumeBuilder_InterviewPrepAssistant
 ResumeBuilder_InterviewPrepAssistant is a backend-first project designed to help users generate professional resumes and prepare for interviews.
 It leverages Spring Boot for the core backend and Stanford CoreNLP models for Natural Language Processing (NLP) tasks, offering an intelligent way to analyze, build, and enhance resume content — and even simulate interview questions!
 
