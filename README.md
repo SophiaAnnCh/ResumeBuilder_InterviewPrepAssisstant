@@ -37,16 +37,3 @@ Download the Stanford CoreNLP models.
 Extract the contents and place the model .jar files into your new lib directory.
 
 You can alternatively automate model downloads using Maven/Gradle dependencies, but manual placement is suggested for simplicity in this setup.
-🚀 How It Works
-Resume Builder:
-Users can input data like experience, education, and skills. The backend uses NLP to improve and format this information into a professional resume template.
-
-Interview Preparation Assistant:
-Using NLP, the system can:
-
-Generate potential interview questions based on resume contents.
-
-Suggest improvements to how information is phrased for maximum impact.
-
-CoreNLP Usage:
-Stanford CoreNLP is utilized to parse and analyze natural language input, helping ensure smart phrasing, error detection, and question generation.
